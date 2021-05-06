@@ -28,7 +28,7 @@ setup(
         'click==7.0',
         'werkzeug==0.16.1',
         'connexion==1.5.3',
-        'flask_cors==3.0.7',
+        'flask_cors==3.0.9',
         'flask_jwt_extended==3.13.1',
         'gunicorn==19.9.0',
         'coloredlogs==10.0',
